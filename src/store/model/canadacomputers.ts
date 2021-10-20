@@ -3,10 +3,16 @@ import {Store} from './store';
 export const CanadaComputers: Store = {
   currency: '$',
   labels: {
-    inStock: {
-      container: 'div[class="pi-prod-availability"]',
-      text: ['Online In Stock'],
-    },
+    inStock: [
+      {
+        container: 'div[class="pi-prod-availability"]',
+        text: ['Order Online and Pick Up In-Store'],
+      },
+      {
+        container: 'div[class="pi-prod-availability"]',
+        text: ['Online In Stock'],
+      },
+    ],
     maxPrice: {
       container: '.h2-big > strong:nth-child(1)',
       euroFormat: false,

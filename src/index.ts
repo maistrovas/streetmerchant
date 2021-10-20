@@ -1,5 +1,5 @@
 import * as Process from 'process';
-import {config} from './config'; // Needs to be loaded first
+import {config, loadProxyList} from './config'; // Needs to be loaded first
 import {startAPIServer, stopAPIServer} from './web';
 import {Browser, launch} from 'puppeteer';
 import {getSleepTime} from './util';
@@ -103,6 +103,8 @@ export async function launchBrowser(): Promise<Browser> {
   }
 
   if (args.length > 0) {
+    const proxyList = loadProxyList('global');
+    logger.info('Proxy list is:', proxyList);
     logger.info('ℹ puppeteer config: ', args);
   }
 

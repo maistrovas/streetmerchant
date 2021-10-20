@@ -517,3 +517,5 @@ export function setConfig(newConfig: any) {
     writeConfig[key] = newConfig[key];
   }
 }
+
+export {loadProxyList};

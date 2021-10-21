@@ -6,11 +6,11 @@ export const CanadaComputers: Store = {
     inStock: [
       {
         container: 'div[class="pi-prod-availability"]',
-        text: ['Order Online and Pick Up In-Store'],
+        text: ['Order Online and Pick Up In-Store', 'Online In Stock'],
       },
       {
-        container: 'div[class="pi-prod-availability"]',
-        text: ['Online In Stock'],
+        container: '#btn-addCart',
+        text: ['Add to Cart'],
       },
     ],
     maxPrice: {

@@ -30,10 +30,11 @@ export type Brand =
   | 'nvidia'
   | 'palit'
   | 'pny'
+  | 'powercolor'
   | 'sapphire'
   | 'sony'
+  | 'ubiquiti'
   | 'xfx'
-  | 'powercolor'
   | 'zotac';
 
 export type Series =
@@ -47,6 +48,7 @@ export type Series =
   | '2060'
   | '2070'
   | '2080'
+  | '3050'
   | '3060'
   | '3060ti'
   | '3070'
@@ -68,6 +70,9 @@ export type Series =
   | 'sonyps5c'
   | 'sonyps5de'
   | 'sf'
+  | 'udm-pro'
+  | 'udm-us'
+  | 'udr-us'
   | 'xboxsx'
   | 'xboxss';
 
@@ -101,6 +106,9 @@ export type Model =
   | 'challenger pro'
   | 'challenger pro oc'
   | 'crosshair viii'
+  | 'dream machine'
+  | 'dream machine pro'
+  | 'dream router'
   | 'dual fan'
   | 'dual oc'
   | 'dual'
@@ -176,6 +184,7 @@ export type Model =
   | 'phantom gs'
   | 'phoenix gs oc'
   | 'phoenix gs'
+  | 'phoenix 8G (LHR)'
   | 'phoenix'
   | 'ps5 console'
   | 'ps5 digital'
@@ -215,6 +224,7 @@ export type Model =
   | 'ventus 2x'
   | 'ventus 3x oc'
   | 'ventus 3x'
+  | 'ventus 2X (LHR)'
   | 'vision oc'
   | 'vision'
   | 'x3'

@@ -1,6 +1,6 @@
 {
   "name": "streetmerchant",
-  "version": "3.5.0",
+  "version": "3.7.1",
   "description": "The world's easiest, most powerful stock checker",
   "main": "src/index.ts",
   "scripts": {
@@ -57,7 +57,7 @@
     "pushover-notifications": "^1.2.2",
     "redis": "^3.1.2",
     "top-user-agents": "^1.0.37",
-    "twilio": "^3.66.1",
+    "twilio": "^3.71.1",
     "twitch": "^4.6.5",
     "twitch-auth": "^4.6.5",
     "twitch-chat-client": "^4.6.5",
@@ -85,6 +85,6 @@
     "webpack": "^5.50.0"
   },
   "volta": {
-    "node": "16.6.1"
+    "node": "16.18.0"
   }
 }

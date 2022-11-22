@@ -93,6 +93,7 @@ import {JohnLewis} from './johnlewis';
 import {Kabum} from './kabum';
 import {KomplettNO} from './komplett-no';
 import {LandmarkComputers} from './lmc';
+import {LDLCItaly} from './ldlc-italy';
 import {Mediamarkt} from './mediamarkt';
 import {MediamarktAt} from './mediamarkt-at';
 import {Medimax} from './medimax';
@@ -153,6 +154,7 @@ import {TescoIE} from './tesco-ie';
 import {TheWarehouse} from './thewarehouse';
 import {TopAchat} from './topachat';
 import {ToysRUs} from './toysrus';
+import {Ubiquiti} from './ubiquiti';
 import {Umart} from './umart';
 import {Unieuro} from './unieuro';
 import {Very} from './very';
@@ -262,6 +264,7 @@ export const storeList = new Map([
   [Kabum.name, Kabum],
   [KomplettNO.name, KomplettNO],
   [LandmarkComputers.name, LandmarkComputers],
+  [LDLCItaly.name, LDLCItaly],
   [Mediamarkt.name, Mediamarkt],
   [MediamarktAt.name, MediamarktAt],
   [Medimax.name, Medimax],
@@ -326,6 +329,7 @@ export const storeList = new Map([
   [TopAchat.name, TopAchat],
   [ToysRUs.name, ToysRUs],
   [Umart.name, Umart],
+  [Ubiquiti.name, Ubiquiti],
   [Unieuro.name, Unieuro],
   [UltimaInformatica.name, UltimaInformatica],
   [Very.name, Very],

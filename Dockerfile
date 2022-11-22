@@ -1,6 +1,4 @@
-FROM node:16.6.1-alpine3.13 AS builder
-
-LABEL org.opencontainers.image.source="https://github.com/jef/streetmerchant"
+FROM node:16.18.0-alpine3.16 AS builder
 
 ENV PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=true
 
@@ -16,7 +14,7 @@ COPY test/ test/
 RUN npm run compile
 RUN npm prune --production
 
-FROM node:16.6.1-alpine3.13
+FROM node:16.18.0-alpine3.16
 
 RUN apk add --no-cache chromium
 

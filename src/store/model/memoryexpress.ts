@@ -9,9 +9,13 @@ export const MemoryExpress: Store = {
       euroFormat: false,
     },
     outOfStock: {
+      // container:
+      //   '.c-capr-inventory-selector__details-online .c-capr-inventory-store__availability',
+      // text: ['Out of Stock', 'Backorder'],
+      // TODO: Add 1660 [ti/super], 6600, 6600xt,
       container:
-        '.c-capr-inventory-selector__details-online .c-capr-inventory-store__availability',
-      text: ['Out of Stock', 'Backorder'],
+        'li[data-region-name="Manitoba"] .c-capr-inventory-store__availability',
+      text: ['Out of Stock'],
     },
   },
   links: [
@@ -706,28 +710,16 @@ export const MemoryExpress: Store = {
       url: 'https://www.memoryexpress.com/Products/MX00117573',
     },
     {
-      brand: 'gigabyte',
-      model: 'dual',
-      series: '3090',
-      url: 'https://www.memoryexpress.com/Products/MX00114686',
-    },
-    {
-      brand: 'asus',
-      model: 'dual',
-      series: '3080ti',
-      url: 'https://www.memoryexpress.com/Products/MX00117391',
-    },
-    {
       brand: 'asus',
       model: 'dual',
       series: '3090',
       url: 'https://www.memoryexpress.com/Products/MX00114001',
     },
     {
-      brand: 'gigabyte',
+      brand: 'asus',
       model: 'dual',
-      series: '3090',
-      url: 'https://www.memoryexpress.com/Products/MX00113953',
+      series: '3080ti',
+      url: 'https://www.memoryexpress.com/Products/MX00119432',
     },
     {
       brand: 'asus',
@@ -740,12 +732,6 @@ export const MemoryExpress: Store = {
       model: 'ftw3',
       series: '3090',
       url: 'https://www.memoryexpress.com/Products/MX00114155',
-    },
-    {
-      brand: 'gigabyte',
-      model: 'dual',
-      series: '3090',
-      url: 'https://www.memoryexpress.com/Products/MX00113952',
     },
     {
       brand: 'msi',
@@ -772,12 +758,6 @@ export const MemoryExpress: Store = {
       url: 'https://www.memoryexpress.com/Products/MX00115133',
     },
     {
-      brand: 'gigabyte',
-      model: 'aorus',
-      series: '3090',
-      url: 'https://www.memoryexpress.com/Products/MX00114401',
-    },
-    {
       brand: 'msi',
       model: 'suprim',
       series: '3090',
@@ -785,27 +765,9 @@ export const MemoryExpress: Store = {
     },
     {
       brand: 'gigabyte',
-      model: 'aorus',
+      model: 'dual',
       series: '3090',
-      url: 'https://www.memoryexpress.com/Products/MX00114397',
-    },
-    {
-      brand: 'gigabyte',
-      model: 'aorus',
-      series: '3090',
-      url: 'https://www.memoryexpress.com/Products/MX00115661',
-    },
-    {
-      brand: 'gigabyte',
-      model: 'aorus',
-      series: '3090',
-      url: 'https://www.memoryexpress.com/Products/MX00115663',
-    },
-    {
-      brand: 'pny',
-      model: 'qick ultra',
-      series: 'a4000',
-      url: 'https://www.memoryexpress.com/Products/MX00118395',
+      url: 'https://www.memoryexpress.com/Products/MX00113952',
     },
   ],
   name: 'memoryexpress',

@@ -26,702 +26,6 @@ export const CanadaComputers: Store = {
       url: 'https://www.canadacomputers.com/product_info.php?item_id=167320&cPath=27_1046_365&language=en',
     },
     {
-      brand: 'gigabyte',
-      model: 'gaming oc',
-      series: '3070',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=183099&language=en',
-    },
-    {
-      brand: 'msi',
-      model: 'gaming x trio',
-      series: '3070',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=183210&language=en',
-    },
-    {
-      brand: 'asus',
-      model: 'dual oc',
-      series: '3070',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=183636&language=en',
-    },
-    {
-      brand: 'asus',
-      model: 'strix oc',
-      series: '3070',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=183637&language=en',
-    },
-    {
-      brand: 'gigabyte',
-      model: 'vision oc',
-      series: '3070',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=184168&language=en',
-    },
-    {
-      brand: 'gigabyte',
-      model: 'aorus master',
-      series: '3070',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=184167&language=en',
-    },
-    {
-      brand: 'zotac',
-      model: 'twin edge oc',
-      series: '3070',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=183561&language=en',
-    },
-    {
-      brand: 'zotac',
-      model: 'twin edge oc',
-      series: '3070',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=185675&language=en',
-    },
-    {
-      brand: 'msi',
-      model: 'ventus 2x oc',
-      series: '3070',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=183208&language=en',
-    },
-    {
-      brand: 'zotac',
-      model: 'twin edge',
-      series: '3070',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=183560&language=en',
-    },
-    {
-      brand: 'zotac',
-      model: 'twin edge oc',
-      series: '3070',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=201181&language=en',
-    },
-    {
-      brand: 'asus',
-      model: 'tuf oc',
-      series: '3070',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=183638&language=en',
-    },
-    {
-      brand: 'asus',
-      model: 'strix white',
-      series: '3070',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=200514&language=en',
-    },
-    {
-      brand: 'asus',
-      model: 'dual',
-      series: '3070',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=198875&language=en',
-    },
-    {
-      brand: 'asus',
-      model: 'tuf oc',
-      series: '3070',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=196367&language=en',
-    },
-    {
-      brand: 'evga',
-      model: 'ftw3 ultra',
-      series: '3070',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=183498&language=en',
-    },
-    {
-      brand: 'msi',
-      model: 'ventus 3x oc',
-      series: '3070',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=183209&language=en',
-    },
-    {
-      brand: 'msi',
-      model: 'suprim x',
-      series: '3070',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=196282&language=en',
-    },
-    {
-      brand: 'gigabyte',
-      model: 'eagle oc',
-      series: '3070',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=183100&language=en',
-    },
-    {
-      brand: 'evga',
-      model: 'xc3 ultra',
-      series: '3070',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=183499&language=en',
-    },
-    {
-      brand: 'msi',
-      model: 'suprim x',
-      series: '3070',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=186197&language=en',
-    },
-    {
-      brand: 'asus',
-      model: 'strix oc',
-      series: '3070',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=186310&language=en',
-    },
-    {
-      brand: 'pny',
-      model: 'gaming',
-      series: '3070',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=193053&language=en',
-    },
-    {
-      brand: 'gigabyte',
-      model: 'master',
-      series: '3070ti',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=195325&language=en',
-    },
-    {
-      brand: 'gigabyte',
-      model: 'vision oc',
-      series: '3070ti',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=195326&language=en',
-    },
-    {
-      brand: 'zotac',
-      model: 'amp holo',
-      series: '3070ti',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=195375&language=en',
-    },
-    {
-      brand: 'msi',
-      model: 'gaming x trio',
-      series: '3070ti',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=195195&language=en',
-    },
-    {
-      brand: 'evga',
-      model: 'ftw3 ultra',
-      series: '3080',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=181376&language=en',
-    },
-    {
-      brand: 'asus',
-      model: 'strix',
-      series: '3080',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=181842&language=en',
-    },
-    {
-      brand: 'msi',
-      model: 'ventus 3x oc',
-      series: '3080',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=200941&language=en',
-    },
-    {
-      brand: 'msi',
-      model: 'ventus 3x oc',
-      series: '3080',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=198129&language=en',
-    },
-    {
-      brand: 'msi',
-      model: 'gaming x trio',
-      series: '3080',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=181348&language=en',
-    },
-    {
-      brand: 'msi',
-      model: 'suprim x',
-      series: '3080',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=199064&language=en',
-    },
-    {
-      brand: 'zotac',
-      model: 'trinity oc',
-      series: '3080',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=184837&language=en',
-    },
-    {
-      brand: 'asus',
-      model: 'tuf oc',
-      series: '3080',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=181415&language=en',
-    },
-    {
-      brand: 'gigabyte',
-      model: 'aorus master',
-      series: '3080',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=182754&language=en',
-    },
-    {
-      brand: 'gigabyte',
-      model: 'vision oc',
-      series: '3080',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=182755&language=en',
-    },
-    {
-      brand: 'gigabyte',
-      model: 'aorus xtreme',
-      series: '3080',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=183098&language=en',
-    },
-    {
-      brand: 'zotac',
-      model: 'trinity oc',
-      series: '3080',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=183510&language=en',
-    },
-    {
-      brand: 'asus',
-      model: 'strix',
-      series: '3080',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=186309&language=en',
-    },
-    {
-      brand: 'msi',
-      model: 'suprim x',
-      series: '3080',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=185084&language=en',
-    },
-    {
-      brand: 'gigabyte',
-      model: 'aorus xtreme waterforce wb',
-      series: '3080',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=186345&language=en',
-    },
-    {
-      brand: 'gigabyte',
-      model: 'aorus xtreme waterforce wb',
-      series: '3080',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=186344&language=en',
-    },
-    {
-      brand: 'msi',
-      model: 'gaming trio',
-      series: '3080ti',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=194695&language=en',
-    },
-    {
-      brand: 'msi',
-      model: 'ventus 3x oc',
-      series: '3080ti',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=194714&language=en',
-    },
-    {
-      brand: 'gigabyte',
-      model: 'aorus xtreme',
-      series: '3080ti',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=195061&language=en',
-    },
-    {
-      brand: 'zotac',
-      model: 'trinity',
-      series: '3080ti',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=194797&language=en',
-    },
-    {
-      brand: 'zotac',
-      model: 'amp holo',
-      series: '3080ti',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=194796&language=en',
-    },
-    {
-      brand: 'asus',
-      model: 'strix oc',
-      series: '3090',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=181841&language=en',
-    },
-    {
-      brand: 'evga',
-      model: 'ftw3 ultra',
-      series: '3090',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=181854&language=en',
-    },
-    {
-      brand: 'asus',
-      model: 'tuf oc',
-      series: '3090',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=181413&language=en',
-    },
-    {
-      brand: 'zotac',
-      model: 'trinity',
-      series: '3090',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=181419&language=en',
-    },
-    {
-      brand: 'zotac',
-      model: 'amp extreme holo',
-      series: '3090',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=198756&language=en',
-    },
-    {
-      brand: 'zotac',
-      model: 'amp core holo',
-      series: '3090',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=190207&language=en',
-    },
-    {
-      brand: 'zotac',
-      model: 'trinity',
-      series: '3090',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=195201&language=en',
-    },
-    {
-      brand: 'gigabyte',
-      model: 'gaming oc',
-      series: '3090',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=181351&language=en',
-    },
-    {
-      brand: 'gigabyte',
-      model: 'aorus xtreme waterforce',
-      series: '3090',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=188242&language=en',
-    },
-    {
-      brand: 'msi',
-      model: 'gaming x trio',
-      series: '3090',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=181350&language=en',
-    },
-    {
-      brand: 'msi',
-      model: 'ventus 3x',
-      series: '3090',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=181349&language=en',
-    },
-    {
-      brand: 'msi',
-      model: 'suprim x',
-      series: '3090',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=185085&language=en',
-    },
-    {
-      brand: 'evga',
-      model: 'xc3 ultra',
-      series: '3090',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=181853&language=en',
-    },
-    {
-      brand: 'gigabyte',
-      model: 'aorus xtreme',
-      series: '3090',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=183096&language=en',
-    },
-    {
-      brand: 'gigabyte',
-      model: 'eagle oc',
-      series: '3090',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=181352&language=en',
-    },
-    {
-      brand: 'gigabyte',
-      model: 'aorus master',
-      series: '3090',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=183097&language=en',
-    },
-    {
-      brand: 'gigabyte',
-      model: 'vision oc',
-      series: '3090',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=184164&language=en',
-    },
-    {
-      brand: 'msi',
-      model: 'gaming x trio',
-      series: '3060ti',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=185086&language=en',
-    },
-    {
-      brand: 'asus',
-      model: 'tuf oc',
-      series: '3060ti',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=184759&language=en',
-    },
-    {
-      brand: 'msi',
-      model: 'ventus 2x oc',
-      series: '3060ti',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=185087&language=en',
-    },
-    {
-      brand: 'asus',
-      model: 'dual oc',
-      series: '3060ti',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=184760&language=en',
-    },
-    {
-      brand: 'zotac',
-      model: 'twin edge oc',
-      series: '3060ti',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=185751&language=en',
-    },
-    {
-      brand: 'zotac',
-      model: 'twin edge',
-      series: '3060ti',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=185752&language=en',
-    },
-    {
-      brand: 'zotac',
-      model: 'twin edge oc',
-      series: '3060ti',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=196048&language=en',
-    },
-    {
-      brand: 'zotac',
-      model: 'twin edge',
-      series: '3060ti',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=196439&language=en',
-    },
-    {
-      brand: 'asus',
-      model: 'strix oc',
-      series: '3060ti',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=184431&language=en',
-    },
-    {
-      brand: 'evga',
-      model: 'xc gaming',
-      series: '3060ti',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=185988&language=en',
-    },
-    {
-      brand: 'evga',
-      model: 'ftw3 ultra',
-      series: '3060ti',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=185987&language=en',
-    },
-    {
-      brand: 'gigabyte',
-      model: 'eagle oc',
-      series: '3060ti',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=185408&language=en',
-    },
-    {
-      brand: 'gigabyte',
-      model: 'gaming oc',
-      series: '3060ti',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=185407&language=en',
-    },
-    {
-      brand: 'gigabyte',
-      model: 'gaming oc pro',
-      series: '3060ti',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=185406&language=en',
-    },
-    {
-      brand: 'gigabyte',
-      model: 'aorus master',
-      series: '3060ti',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=185405&language=en',
-    },
-    {
-      brand: 'asus',
-      model: 'ko',
-      series: '3060ti',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=185168&language=en',
-    },
-    {
-      brand: 'msi',
-      model: 'ventus 2x',
-      series: '3060',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=188914&language=en',
-    },
-    {
-      brand: 'msi',
-      model: 'gaming x trio',
-      series: '3060',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=189034&language=en',
-    },
-    {
-      brand: 'msi',
-      model: 'ventus 3x',
-      series: '3060',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=189035&language=en',
-    },
-    {
-      brand: 'zotac',
-      model: 'twin edge oc',
-      series: '3060',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=189411&language=en',
-    },
-    {
-      brand: 'asus',
-      model: 'strix oc',
-      series: '3060',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=189542&language=en',
-    },
-    {
-      brand: 'asus',
-      model: 'phoenix',
-      series: '3060',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=198873&language=en',
-    },
-    {
-      brand: 'asus',
-      model: 'dual',
-      series: '3060',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=196353&language=en',
-    },
-    {
-      brand: 'evga',
-      model: 'xc gaming',
-      series: '3060',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=189460&language=en',
-    },
-    {
-      brand: 'asus',
-      model: 'tuf oc',
-      series: '3060',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=189615&language=en',
-    },
-    {
-      brand: 'gigabyte',
-      model: 'gaming oc',
-      series: '3060',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=189625&language=en',
-    },
-    {
-      brand: 'gigabyte',
-      model: 'eagle oc',
-      series: '3060',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=189626&language=en',
-    },
-    {
-      brand: 'gigabyte',
-      model: 'aorus elite',
-      series: '3060',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=195321&language=en',
-    },
-    {
-      brand: 'gigabyte',
-      model: 'gaming oc',
-      series: '3060',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=195323&language=en',
-    },
-    {
-      brand: 'zotac',
-      model: 'twin edge',
-      series: '1660ti',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=135366&language=en',
-    },
-    {
-      brand: 'asus',
-      model: 'dual',
-      series: '1660ti',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=204651&language=en',
-    },
-    {
-      brand: 'asus',
-      model: 'dual',
-      series: '1660ti',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=204645&language=en',
-    },
-    {
-      brand: 'asus',
-      model: 'dual',
-      series: '1660super',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=156775&language=en',
-    },
-    {
-      brand: 'asus',
-      model: 'dual',
-      series: '1660super',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=159622&language=en',
-    },
-    {
-      brand: 'msi',
-      model: 'ventus 2x',
-      series: '1660super',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=156968&language=en',
-    },
-    {
-      brand: 'asus',
-      model: 'dual',
-      series: 'rx6600xt',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_558&item_id=206490&language=en',
-    },
-    {
-      brand: 'msi',
-      model: 'merc',
-      series: 'rx6600xt',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_558&item_id=206751&language=en',
-    },
-    {
-      brand: 'sapphire',
-      model: 'pulse',
-      series: 'rx6600xt',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_558&item_id=205389&language=en',
-    },
-    {
-      brand: 'gigabyte',
-      model: 'eagle',
-      series: 'rx6600xt',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_558&item_id=206786&language=en',
-    },
-    {
-      brand: 'gigabyte',
-      model: 'gaming oc',
-      series: 'rx6600xt',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_558&item_id=199045&language=en',
-    },
-    {
-      brand: 'msi',
-      model: 'gaming x trio',
-      series: 'rx6800',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_558&item_id=186527&language=en',
-    },
-    {
-      brand: 'sapphire',
-      model: 'nitro+',
-      series: 'rx6800',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_558&item_id=185755&language=en',
-    },
-    {
-      brand: 'asus',
-      model: 'strix oc',
-      series: 'rx6800',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_558&item_id=185459&language=en',
-    },
-    {
-      brand: 'asus',
-      model: 'tuf oc',
-      series: 'rx6800',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_558&item_id=185460&language=en',
-    },
-    {
-      brand: 'msi',
-      model: 'gaming x trio',
-      series: 'rx6800xt',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_558&item_id=186526&language=en',
-    },
-    {
-      brand: 'sapphire',
-      model: 'nitro+',
-      series: 'rx6800xt',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_558&item_id=185754&language=en',
-    },
-    {
-      brand: 'sapphire',
-      model: 'nitro+ se',
-      series: 'rx6800xt',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_558&item_id=185753&language=en',
-    },
-    {
-      brand: 'gigabyte',
-      model: 'gaming oc',
-      series: 'rx6800xt',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_558&item_id=185891&language=en',
-    },
-    {
-      brand: 'asus',
-      model: 'strix lc',
-      series: 'rx6800xt',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_558&item_id=185458&language=en',
-    },
-    {
-      brand: 'asus',
-      model: 'tuf oc',
-      series: 'rx6900xt',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_558&item_id=186610&language=en',
-    },
-    {
-      brand: 'sapphire',
-      model: 'nitro+',
-      series: 'rx6900xt',
-      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_558&item_id=186614&language=en',
-    },
-    {
       brand: 'amd',
       model: '5600x',
       series: 'ryzen5600',
@@ -750,6 +54,1571 @@ export const CanadaComputers: Store = {
       model: 'xbox series x',
       series: 'xboxsx',
       url: 'https://www.canadacomputers.com/product_info.php?cPath=13_1860_1862&item_id=184244&language=en',
+    },
+    {
+      brand: 'asus',
+      model: 'dual',
+      series: '3070',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=198875',
+    },
+    {
+      brand: 'zotac',
+      model: 'amp holo',
+      series: '3080ti',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=194796',
+    },
+
+    {
+      brand: 'asus',
+      model: 'dual',
+      series: '3090',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=213667',
+    },
+    {
+      brand: 'gigabyte',
+      model: 'gaming',
+      series: '1660ti',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=217064',
+    },
+
+    {
+      brand: 'zotac',
+      model: 'gaming',
+      series: '3070ti',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=198010',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'oc',
+      series: '2060',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=209004',
+    },
+
+    {
+      brand: 'zotac',
+      model: 'amp holo',
+      series: '3070',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=213086',
+    },
+
+    {
+      brand: 'evga',
+      model: 'ftw3',
+      series: '3070',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=218554',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'oc',
+      series: '3070',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=196746',
+    },
+
+    {
+      brand: 'zotac',
+      model: 'amp extreme airo',
+      series: '4080',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=232364',
+    },
+
+    {
+      brand: 'msi',
+      model: 'oc',
+      series: '3080ti',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=194714',
+    },
+
+    {
+      brand: 'msi',
+      model: 'gaming trio',
+      series: '3080',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=213154',
+    },
+
+    {
+      brand: 'asus',
+      model: 'gaming',
+      series: '3090',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=218291',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'eagle oc',
+      series: '3060',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=220645',
+    },
+
+    {
+      brand: 'zotac',
+      model: 'amp extreme airo',
+      series: '4080',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=231639',
+    },
+
+    {
+      brand: 'zotac',
+      model: 'amp extreme holo',
+      series: '3070ti',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=213544',
+    },
+
+    {
+      brand: 'msi',
+      model: 'oc',
+      series: '4080',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=231445',
+    },
+
+    {
+      brand: 'msi',
+      model: 'suprim',
+      series: '4090',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=229416',
+    },
+
+    {
+      brand: 'msi',
+      model: 'suprim',
+      series: '3070',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=196282',
+    },
+
+    {
+      brand: 'msi',
+      model: 'gaming x',
+      series: '3060ti',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=196287',
+    },
+
+    {
+      brand: 'evga',
+      model: 'ftw3',
+      series: '3070',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=216361',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'gaming',
+      series: '2060',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=212502',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'gaming oc',
+      series: '3070',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=196742',
+    },
+
+    {
+      brand: 'msi',
+      model: 'gaming x trio',
+      series: '3080ti',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=194695',
+    },
+
+    {
+      brand: 'asus',
+      model: 'gaming',
+      series: '4080',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=231434',
+    },
+
+    {
+      brand: 'zotac',
+      model: 'amp extreme holo',
+      series: '3080ti',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=214688',
+    },
+
+    {
+      brand: 'msi',
+      model: 'oc',
+      series: '2060',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=214518',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'eagle oc',
+      series: '3060',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=195324',
+    },
+
+    {
+      brand: 'msi',
+      model: 'oc',
+      series: '3080',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=220256',
+    },
+
+    {
+      brand: 'asus',
+      model: 'gaming',
+      series: '3070',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=198874',
+    },
+
+    {
+      brand: 'zotac',
+      model: 'gaming',
+      series: '2060',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=217049',
+    },
+
+    {
+      brand: 'asus',
+      model: 'gaming',
+      series: '3060ti',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=196366',
+    },
+
+    {
+      brand: 'zotac',
+      model: 'gaming',
+      series: '3060ti',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=199453',
+    },
+
+    {
+      brand: 'asus',
+      model: 'noctua edition',
+      series: '3080',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=232773',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'gaming',
+      series: '2060',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=194519',
+    },
+
+    {
+      brand: 'asus',
+      model: 'gaming',
+      series: '3060ti',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=210770',
+    },
+
+    {
+      brand: 'asus',
+      model: 'oc',
+      series: '3060',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=220912',
+    },
+
+    {
+      brand: 'zotac',
+      model: 'gaming',
+      series: '4090',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=229831',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'eagle oc',
+      series: '3070',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=226935',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'oc',
+      series: '1660',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=136151',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'eagle',
+      series: '3080',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=214131',
+    },
+
+    {
+      brand: 'msi',
+      model: 'gaming x',
+      series: '1660super',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=156969',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'oc',
+      series: '1660super',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=151332',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'aorus',
+      series: '3080',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=213411',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'aorus',
+      series: '3070',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=216814',
+    },
+
+    {
+      brand: 'zotac',
+      model: 'amp extreme holo',
+      series: '3080ti',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=222536',
+    },
+
+    {
+      brand: 'asus',
+      model: 'gaming',
+      series: '3070ti',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=194930',
+    },
+
+    {
+      brand: 'zotac',
+      model: 'gaming',
+      series: '3080',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=196672',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'aorus',
+      series: '3060',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=195321',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'windforce',
+      series: '4090',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=227133',
+    },
+
+    {
+      brand: 'asus',
+      model: 'oc',
+      series: '3060ti',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=198872',
+    },
+
+    {
+      brand: 'asus',
+      model: 'gaming',
+      series: '4080',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=231438',
+    },
+
+    {
+      brand: 'asus',
+      model: 'noctua edition',
+      series: '3080',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=224364',
+    },
+
+    {
+      brand: 'msi',
+      model: 'oc',
+      series: '3070',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=222631',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'gaming oc',
+      series: '3080',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=215783',
+    },
+
+    {
+      brand: 'msi',
+      model: 'oc',
+      series: '3060',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=189035',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'oc',
+      series: '3070ti',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=195326',
+    },
+
+    {
+      brand: 'asus',
+      model: 'gaming',
+      series: '4090',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=229564',
+    },
+
+    {
+      brand: 'evga',
+      model: 'dual',
+      series: '3060',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=232645',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'aorus',
+      series: '3080ti',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=220694',
+    },
+
+    {
+      brand: 'zotac',
+      model: 'amp holo',
+      series: '3070ti',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=214044',
+    },
+
+    {
+      brand: 'zotac',
+      model: 'gaming',
+      series: '3090',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=190207',
+    },
+
+    {
+      brand: 'asus',
+      model: 'gaming',
+      series: '1660ti',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=204651',
+    },
+
+    {
+      brand: 'asus',
+      model: 'phoenix',
+      series: '3060',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=220778',
+    },
+
+    {
+      brand: 'asus',
+      model: 'gaming',
+      series: '3080',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=221640',
+    },
+
+    {
+      brand: 'evga',
+      model: 'ftw3',
+      series: '3080',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=232643',
+    },
+
+    {
+      brand: 'msi',
+      model: 'gaming x trio',
+      series: '3060',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=189034',
+    },
+
+    {
+      brand: 'msi',
+      model: 'suprim',
+      series: '3080',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=199064',
+    },
+
+    {
+      brand: 'msi',
+      model: 'oc',
+      series: '3070',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=226277',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'oc',
+      series: '3080',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=196740',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'gaming oc',
+      series: '3060',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=215003',
+    },
+
+    {
+      brand: 'asus',
+      model: 'gaming',
+      series: '3080',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=198418',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'gaming oc',
+      series: '3080',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=196747',
+    },
+
+    {
+      brand: 'asus',
+      model: 'oc',
+      series: '3060',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=196363',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'aorus',
+      series: '4080',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=232554',
+    },
+
+    {
+      brand: 'evga',
+      model: 'ftw3',
+      series: '3080ti',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=194699',
+    },
+
+    {
+      brand: 'asus',
+      model: 'gaming',
+      series: '3060',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=196365',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'gaming oc',
+      series: '3070',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=221992',
+    },
+
+    {
+      brand: 'asus',
+      model: 'oc',
+      series: '3070',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=196364',
+    },
+
+    {
+      brand: 'evga',
+      model: 'dual',
+      series: '3060',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=189460',
+    },
+
+    {
+      brand: 'zotac',
+      model: 'gaming',
+      series: '3060ti',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=196048',
+    },
+
+    {
+      brand: 'asus',
+      model: 'gaming',
+      series: '4090',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=229562',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'eagle oc',
+      series: '3070ti',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=195328',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'oc',
+      series: '3070ti',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=215493',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'aorus',
+      series: '3080',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=196732',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'gaming oc',
+      series: '3070ti',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=207143',
+    },
+
+    {
+      brand: 'msi',
+      model: 'gaming x',
+      series: '3060ti',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=213424',
+    },
+
+    {
+      brand: 'asus',
+      model: 'oc',
+      series: '3070',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=210258',
+    },
+
+    {
+      brand: 'msi',
+      model: 'gaming x',
+      series: '1660super',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=223093',
+    },
+
+    {
+      brand: 'msi',
+      model: 'oc',
+      series: '3080',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=200941',
+    },
+
+    {
+      brand: 'zotac',
+      model: 'twin edge',
+      series: '3060ti',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=196439',
+    },
+
+    {
+      brand: 'asus',
+      model: 'dual',
+      series: '3060',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=196353',
+    },
+
+    {
+      brand: 'msi',
+      model: 'gaming x trio',
+      series: '4080',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=231444',
+    },
+
+    {
+      brand: 'asus',
+      model: 'oc',
+      series: '3060',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=225666',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'oc',
+      series: '1660',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=220423',
+    },
+
+    {
+      brand: 'asus',
+      model: 'gaming',
+      series: '1660super',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=159622',
+    },
+
+    {
+      brand: 'zotac',
+      model: 'gaming',
+      series: '3070ti',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=217709',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'gaming oc',
+      series: '3060',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=195323',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'eagle',
+      series: '3080ti',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=198476',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'gaming oc',
+      series: '3070ti',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=195327',
+    },
+
+    {
+      brand: 'zotac',
+      model: 'gaming',
+      series: '4080',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=232379',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'aorus',
+      series: '4080',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=232559',
+    },
+
+    {
+      brand: 'pny',
+      model: 'gaming',
+      series: '3070',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=193053',
+    },
+
+    {
+      brand: 'asus',
+      model: 'dual',
+      series: '3070',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=206344',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'aorus',
+      series: '4090',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=229293',
+    },
+
+    {
+      brand: 'evga',
+      model: 'ftw3',
+      series: '3070ti',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=195393',
+    },
+
+    {
+      brand: 'asus',
+      model: 'gaming',
+      series: '3070',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=196367',
+    },
+
+    {
+      brand: 'asus',
+      model: 'gaming',
+      series: '3070ti',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=210141',
+    },
+
+    {
+      brand: 'msi',
+      model: 'suprim',
+      series: '4080',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=231441',
+    },
+
+    {
+      brand: 'asus',
+      model: 'oc',
+      series: '3090',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=181841',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'gaming oc',
+      series: '4080',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=232280',
+    },
+
+    {
+      brand: 'asus',
+      model: 'dual',
+      series: '1660super',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=156775',
+    },
+
+    {
+      brand: 'evga',
+      model: 'ftw3',
+      series: '3070',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=195774',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'aorus',
+      series: '4090',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=229294',
+    },
+
+    {
+      brand: 'zotac',
+      model: 'gaming',
+      series: '4080',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=231645',
+    },
+
+    {
+      brand: 'asus',
+      model: 'gaming',
+      series: '4080',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=232724',
+    },
+
+    {
+      brand: 'asus',
+      model: 'dual',
+      series: '2060',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=151291',
+    },
+
+    {
+      brand: 'asus',
+      model: 'gaming',
+      series: '3080',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=214135',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'gaming oc',
+      series: '3080',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=214130',
+    },
+
+    {
+      brand: 'msi',
+      model: 'suprim',
+      series: '3070',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=213215',
+    },
+
+    {
+      brand: 'asus',
+      model: 'gaming',
+      series: '3080ti',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=209431',
+    },
+
+    {
+      brand: 'asus',
+      model: 'gaming',
+      series: '3070ti',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=231442',
+    },
+
+    {
+      brand: 'asus',
+      model: 'strix',
+      series: '3090',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=231394',
+    },
+
+    {
+      brand: 'asus',
+      model: 'phoenix',
+      series: '1660super',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=156776',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'oc',
+      series: '1660super',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=213874',
+    },
+
+    {
+      brand: 'asus',
+      model: 'gaming',
+      series: '3080',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=198968',
+    },
+
+    {
+      brand: 'asus',
+      model: 'gaming',
+      series: '3060',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=222713',
+    },
+
+    {
+      brand: 'asus',
+      model: 'dual',
+      series: '2060',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=214133',
+    },
+
+    {
+      brand: 'msi',
+      model: 'suprim',
+      series: '3070',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=224759',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'aorus',
+      series: '3060',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=206969',
+    },
+
+    {
+      brand: 'asus',
+      model: 'gaming',
+      series: '3070ti',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=194931',
+    },
+
+    {
+      brand: 'msi',
+      model: 'suprim',
+      series: '3080',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=185084',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'eagle oc',
+      series: '4080',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=231116',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'eagle',
+      series: '4080',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=231120',
+    },
+
+    {
+      brand: 'asus',
+      model: 'gaming',
+      series: '3080ti',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=195077',
+    },
+
+    {
+      brand: 'zotac',
+      model: 'gaming',
+      series: '2060',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=223081',
+    },
+
+    {
+      brand: 'asus',
+      model: 'dual',
+      series: '1660ti',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=214477',
+    },
+
+    {
+      brand: 'msi',
+      model: 'oc',
+      series: '3070',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=196286',
+    },
+
+    {
+      brand: 'asus',
+      model: 'gaming',
+      series: '3080ti',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=230917',
+    },
+
+    {
+      brand: 'msi',
+      model: 'oc',
+      series: '2060',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=220554',
+    },
+
+    {
+      brand: 'zotac',
+      model: 'gaming',
+      series: '3080ti',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=194797',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'gaming oc',
+      series: '3080ti',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=195034',
+    },
+
+    {
+      brand: 'evga',
+      model: 'ftw3',
+      series: '3070ti',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=218434',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'eagle oc',
+      series: '3080ti',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=195064',
+    },
+
+    {
+      brand: 'asus',
+      model: 'dual',
+      series: '3060',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=210411',
+    },
+
+    {
+      brand: 'msi',
+      model: 'oc',
+      series: '3080',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=198129',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'oc',
+      series: '3060',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=223802',
+    },
+
+    {
+      brand: 'zotac',
+      model: 'gaming',
+      series: '3080',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=199488',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'gaming oc',
+      series: '4090',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=226645',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'oc',
+      series: '4080',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=232560',
+    },
+
+    {
+      brand: 'evga',
+      model: 'dual',
+      series: '3060',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=206136',
+    },
+
+    {
+      brand: 'zotac',
+      model: 'gaming',
+      series: '3080ti',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=221115',
+    },
+
+    {
+      brand: 'zotac',
+      model: 'oc',
+      series: '3060',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=189411',
+    },
+
+    {
+      brand: 'asus',
+      model: 'strix',
+      series: '3080',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=194012',
+    },
+
+    {
+      brand: 'msi',
+      model: 'oc',
+      series: '1660super',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=156968',
+    },
+
+    {
+      brand: 'zotac',
+      model: 'gaming',
+      series: '3070',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=227208',
+    },
+
+    {
+      brand: 'zotac',
+      model: 'gaming',
+      series: '3070',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=201181',
+    },
+
+    {
+      brand: 'asus',
+      model: 'oc',
+      series: '2060',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=192962',
+    },
+
+    {
+      brand: 'asus',
+      model: 'dual',
+      series: '2060',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=201615',
+    },
+
+    {
+      brand: 'msi',
+      model: 'oc',
+      series: '3070',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=196284',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'eagle oc',
+      series: '3070',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=196739',
+    },
+
+    {
+      brand: 'evga',
+      model: 'gaming',
+      series: '3070ti',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=224369',
+    },
+
+    {
+      brand: 'zotac',
+      model: 'gaming',
+      series: '3060ti',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=219512',
+    },
+
+    {
+      brand: 'zotac',
+      model: 'gaming',
+      series: '4090',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=229830',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'gaming oc',
+      series: '4080',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=230976',
+    },
+
+    {
+      brand: 'msi',
+      model: 'oc',
+      series: '3060',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=188914',
+    },
+
+    {
+      brand: 'msi',
+      model: 'gaming x',
+      series: '3060',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=188915',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'aorus',
+      series: '3070ti',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=195325',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'oc',
+      series: '3070',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=221526',
+    },
+
+    {
+      brand: 'msi',
+      model: 'gaming x',
+      series: '3060',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=222119',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'aorus',
+      series: '3080',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=206977',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'aorus',
+      series: '3080',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=210964',
+    },
+
+    {
+      brand: 'asus',
+      model: 'ko',
+      series: '3060',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=218726',
+    },
+
+    {
+      brand: 'asus',
+      model: 'gaming',
+      series: '1660ti',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=204645',
+    },
+
+    {
+      brand: 'msi',
+      model: 'ventus xs',
+      series: '1660ti',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=135364',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'aorus',
+      series: '3080',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=196738',
+    },
+
+    {
+      brand: 'asus',
+      model: 'gaming',
+      series: '3070',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=201346',
+    },
+
+    {
+      brand: 'zotac',
+      model: 'amp extreme holo',
+      series: '3070ti',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=219513',
+    },
+
+    {
+      brand: 'msi',
+      model: 'oc',
+      series: '3060',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=219615',
+    },
+
+    {
+      brand: 'evga',
+      model: 'ftw3',
+      series: '3080',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=195773',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'eagle oc',
+      series: '3080ti',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=222653',
+    },
+
+    {
+      brand: 'asus',
+      model: 'dual',
+      series: '3060ti',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=196358',
+    },
+
+    {
+      brand: 'zotac',
+      model: 'gaming',
+      series: '3080',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=213317',
+    },
+
+    {
+      brand: 'asus',
+      model: 'phoenix',
+      series: '1660super',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=201982',
+    },
+
+    {
+      brand: 'msi',
+      model: 'oc',
+      series: '3060',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=204738',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'aorus',
+      series: '3070ti',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=202757',
+    },
+
+    {
+      brand: 'evga',
+      model: 'ftw3',
+      series: '3070',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=183498',
+    },
+
+    {
+      brand: 'zotac',
+      model: 'gaming',
+      series: '3070',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=197956',
+    },
+
+    {
+      brand: 'msi',
+      model: 'oc',
+      series: '3070ti',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=195198',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'gaming oc',
+      series: '3080',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=221324',
+    },
+
+    {
+      brand: 'msi',
+      model: 'suprim',
+      series: '4080',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=232725',
+    },
+
+    {
+      brand: 'msi',
+      model: 'gaming z trio',
+      series: '3060',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=211788',
+    },
+
+    {
+      brand: 'zotac',
+      model: 'gaming',
+      series: '4080',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=232069',
+    },
+
+    {
+      brand: 'asus',
+      model: 'gaming',
+      series: '4090',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=229558',
+    },
+
+    {
+      brand: 'msi',
+      model: 'dual fan',
+      series: '2060',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=218921',
+    },
+
+    {
+      brand: 'zotac',
+      model: 'oc',
+      series: '3060',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=207077',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'oc',
+      series: '3060',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=195322',
+    },
+
+    {
+      brand: 'asus',
+      model: 'gaming',
+      series: '3090',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=213662',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'oc',
+      series: '3070',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=184168',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'aorus',
+      series: '3070',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=200236',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'gaming',
+      series: '1660ti',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=222117',
+    },
+
+    {
+      brand: 'asus',
+      model: 'gaming',
+      series: '3070',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=200514',
+    },
+
+    {
+      brand: 'zotac',
+      model: 'gaming',
+      series: '3070',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=215734',
+    },
+
+    {
+      brand: 'asus',
+      model: 'gaming',
+      series: '3070',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=216816',
+    },
+
+    {
+      brand: 'msi',
+      model: 'gaming z trio',
+      series: '3080',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=216277',
+    },
+
+    {
+      brand: 'msi',
+      model: 'ventus xs',
+      series: '1660ti',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=218389',
+    },
+
+    {
+      brand: 'evga',
+      model: 'ftw3',
+      series: '3080',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=213523',
+    },
+
+    {
+      brand: 'zotac',
+      model: 'amp holo',
+      series: '3070ti',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=195375',
+    },
+
+    {
+      brand: 'asus',
+      model: 'oc',
+      series: '3060',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=229191',
+    },
+
+    {
+      brand: 'asus',
+      model: 'phoenix',
+      series: '2060',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=229877',
+    },
+
+    {
+      brand: 'asus',
+      model: 'oc',
+      series: '3060ti',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=206959',
+    },
+
+    {
+      brand: 'asus',
+      model: 'gaming',
+      series: '3090',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=181413',
+    },
+
+    {
+      brand: 'zotac',
+      model: 'gaming',
+      series: '4090',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=231642',
+    },
+
+    {
+      brand: 'msi',
+      model: 'gaming z trio',
+      series: '3070',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=196283',
+    },
+
+    {
+      brand: 'asus',
+      model: 'phoenix',
+      series: '3060',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=198873',
+    },
+
+    {
+      brand: 'msi',
+      model: 'oc',
+      series: '3080',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=214056',
+    },
+
+    {
+      brand: 'msi',
+      model: 'gaming trio',
+      series: '4090',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=229418',
+    },
+
+    {
+      brand: 'msi',
+      model: 'oc',
+      series: '3070',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=229513',
+    },
+
+    {
+      brand: 'asus',
+      model: 'gaming',
+      series: '4080',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=231436',
+    },
+
+    {
+      brand: 'evga',
+      model: 'ftw3',
+      series: '3080',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=226843',
+    },
+
+    {
+      brand: 'gigabyte',
+      model: 'aorus',
+      series: '4080',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=232555',
+    },
+
+    {
+      brand: 'asus',
+      model: 'gaming',
+      series: '3090',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=221641',
+    },
+
+    {
+      brand: 'msi',
+      model: 'gaming x trio',
+      series: '3070ti',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=195195',
+    },
+
+    {
+      brand: 'msi',
+      model: 'dual fan',
+      series: '2060',
+      url: 'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=220969',
     },
   ],
   name: 'canadacomputers',
